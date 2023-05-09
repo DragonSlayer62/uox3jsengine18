@@ -1,0 +1,130 @@
+// -----------= BONE ARMS =----------- //
+// Bone Arms - E/W
+[0x144e]
+{
+getlbr=0x144e_lbr
+getaos=0x144e_aos
+gettol=0x144e_tol
+sectionid=0x144e
+}
+
+// Bone Arms - N/S
+[0x1453]
+{
+get=0x144e
+id=0x1453
+}
+
+// Bone Arms - Alias
+[bonearms]
+{
+get=0x144e 0x1453
+}
+
+// -----------= BONE ARMOR =----------- //
+// Bone Armor - E/W
+[0x144f]
+{
+getlbr=0x144f_lbr
+getaos=0x144f_aos
+gettol=0x144f_tol
+sectionid=0x144f
+}
+
+// Bone Armor - N/S
+[0x1454]
+{
+get=0x144f
+id=0x1454
+}
+
+// Bone Armor - Alias
+[bonearmor]
+{
+get=0x144f 0x1454
+}
+
+// -----------= BONE GAUNTLETS =----------- //
+// Bone Gauntlets - E/W
+[0x1450]
+{
+getlbr=0x1450_lbr
+getaos=0x1450_aos
+gettol=0x1450_tol
+sectionid=0x1450
+}
+
+// Bone Gauntlets - N/S
+[0x1455]
+{
+get=0x1450
+id=0x1455
+}
+
+// Bone Gauntlets - Alias
+[bonegloves]
+{
+get=0x1450 0x1455
+}
+
+// -----------= BONE HELM =----------- //
+// Bone Helm - E/W
+[0x1451]
+{
+getlbr=0x1451_lbr
+getaos=0x1451_aos
+gettol=0x1451_tol
+sectionid=0x1451
+}
+
+// Bone Helm - N/S
+[0x1456]
+{
+get=0x1451
+id=0x1456
+}
+
+// Bone Helm - Alias
+[bonehelm]
+{
+get=0x1451 0x1456
+}
+
+// -----------= BONE LEGGINGS =----------- //
+// Bone Leggings - E/W
+[0x1452]
+{
+getlbr=0x1452_lbr
+getaos=0x1452_aos
+gettol=0x1452_tol
+sectionid=0x1452
+}
+
+// Bone Leggings - N/S
+[0x1457]
+{
+get=0x1452
+id=0x1457
+}
+
+// Bone Leggings - Alias
+[bonelegs]
+{
+get=0x1452 0x1457
+}
+
+// -----------= ORC HELM =----------- //
+// Orc Helm
+[0x1f0b]
+{
+getlbr=0x1f0b_lbr
+getaos=0x1f0b_aos
+gettol=0x1f0b_tol
+sectionid=0x1f0b
+}
+
+// Orc Helm - Alias
+[orchelm]
+{
+get=0x1f0b
+}

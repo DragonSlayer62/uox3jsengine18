@@ -1,0 +1,219 @@
+// -----------= HIDE PAULDRONS =----------- //
+// Hide Pauldrons - N/S
+[0x2b77]
+{
+getlbr=0x2b77_lbr
+getaos=0x2b77_aos
+gettol=0x2b77_tol
+sectionid=0x2b77
+}
+
+// Hide Pauldrons - E/S
+[0x316e]
+{
+get=0x2b77
+id=0x316e
+}
+
+// Hide Pauldrons - Alias
+[hidepauldrons]
+{
+get=0x2b77 0x316e
+}
+
+// -----------= HIDE TUNIC =----------- //
+// Hide Tunic - E/W
+[0x2b74]
+{
+getlbr=0x2b74_lbr
+getaos=0x2b74_aos
+gettol=0x2b74_tol
+sectionid=0x2b74
+}
+
+// Hide Tunic - N/S
+[0x316b]
+{
+get=0x2b74
+id=0x316b
+}
+
+// Hide Tunic - Alias
+[hidetunic]
+{
+get=0x2b74 0x316b
+}
+
+// -----------= HIDE ARMOR (FEMALE) =----------- //
+// Hide Armor (Female) - E/W
+[0x2b79]
+{
+getlbr=0x2b79_lbr
+getaos=0x2b79_aos
+gettol=0x2b79_tol
+sectionid=0x2b79
+}
+
+// Hide Armor (Female) - N/S
+[0x3170]
+{
+get=0x2b79
+id=0x3170
+}
+
+// Hide Armor (Female) - Alias
+[hidearmor]
+{
+get=0x2b79 0x3170
+}
+
+// -----------= HIDE GLOVES =----------- //
+// Hide Gloves - E/W
+[0x2b75]
+{
+getlbr=0x2b75_lbr
+getaos=0x2b75_aos
+gettol=0x2b75_tol
+sectionid=0x2b75
+}
+
+// Hide Gloves - N/S
+[0x316c]
+{
+get=0x2b75
+id=0x316c
+}
+
+// Hide Gloves - Alias
+[hidegloves]
+{
+get=0x2b75 0x316c
+}
+
+// -----------= HIDE PANTS =----------- //
+// Hide Pants - N/S
+[0x2b78]
+{
+getlbr=0x2b78_lbr
+getaos=0x2b78_aos
+gettol=0x2b78_tol
+sectionid=0x2b78
+}
+
+// Hide Pants - E/W
+[0x316f]
+{
+get=0x2b78
+id=0x316f
+}
+
+// Hide Pants - Alias
+[hidepants]
+{
+get=0x2b78 0x316f
+}
+
+// -----------= HIDE GORGET =----------- //
+// Hide Gorget - E/W
+[0x2b76]
+{
+getlbr=0x2b76_lbr
+getaos=0x2b76_aos
+gettol=0x2b76_tol
+sectionid=0x2b76
+}
+
+// Hide Gorget - N/S
+[0x316d]
+{
+get=0x2b76
+id=0x316d
+}
+
+// Hide Gorget - Alias
+[hidegorget]
+{
+get=0x2b76 0x316d
+}
+
+// ToL Dragon Turtle Hide Armor
+
+// -----------= ARMS =----------- //
+// Dragon Turtle Hide Arms
+[0x782e]
+{
+getlbr=0x782e_lbr
+getaos=0x782e_aos
+gettol=0x782e_tol
+sectionid=0x782e
+}
+
+// Dragon Turtle Hide Arms - Alias
+[dragonturtlehidearms]
+{
+get=0x782e
+}
+
+// -----------= CHEST =----------- //
+// Dragon Turtle Hide Chest
+[0x782a]
+{
+getlbr=0x782a_lbr
+getaos=0x782a_aos
+gettol=0x782a_tol
+sectionid=0x782a
+}
+
+// Dragon Turtle Hide Chest - Alias
+[dragonturtlehidechest]
+{
+get=0x782a
+}
+
+// Dragon Turtle Hide Bustier
+[0x782b]
+{
+getlbr=0x782b_lbr
+getaos=0x782b_aos
+gettol=0x782b_tol
+sectionid=0x782b
+}
+
+// Dragon Turtle Hide Bustier - Alias
+[dragonturtlehidebustier]
+{
+get=0x782b
+}
+
+// -----------= HELM =----------- //
+// Dragon Turtle Hide Helm
+[0x782d]
+{
+getlbr=0x782d_lbr
+getaos=0x782d_aos
+gettol=0x782d_tol
+sectionid=0x782d
+}
+
+// Dragon Turtle Hide Helm - Alias
+[dragonturtlehidehelm]
+{
+get=0x782d
+}
+
+// -----------= LEGS =----------- //
+
+// Dragon Turtle Hide Leggings
+[0x782c]
+{
+getlbr=0x782c_lbr
+getaos=0x782c_aos
+gettol=0x782c_tol
+sectionid=0x782c
+}
+
+// Dragon Turtle Hide Leggings - Alias
+[dragonturtlehideleggings]
+{
+get=0x782c
+}
